@@ -1,5 +1,6 @@
 
-Project Title:  Prediction of weather for a city for a given period
+
+##  Prediction of weather for a city for a given period
 
 
 DataStorytelling.ipynb
